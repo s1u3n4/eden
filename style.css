@@ -1110,6 +1110,9 @@ Animation Css
 .bg_color--28 {
   background: #CC327B; }
 
+.bg_color--30 {
+  background: #9a9a9a; }
+
 .bg-as-text {
   background-image: url(img/icons/text.png);
   background-repeat: no-repeat;
@@ -17477,7 +17480,7 @@ body.loaded .page-loading {
       font-weight: 600;
       line-height: 1.58;
       font-size: 14px;
-      color: #333333;
+      color: #fff; /* #333333; */
       -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
